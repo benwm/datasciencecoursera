@@ -1,5 +1,5 @@
 ---
-title: "HelloWorld"
+title: "HelloWorld.md"
 output: html_document
 ---
 
